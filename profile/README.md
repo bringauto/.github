@@ -14,9 +14,9 @@ many in-house developed technologies as an open-source
 
 ## Projects
 
-- Fleet Protocol
-- Packager - simple yet reliable dependency management mainly for C++ projects
-- BringAuto Pi - compute platform based on Raspberry Pi for SW Validation and Verification purposes
+- [Fleet Protocol]
+- [Packager] - simple yet reliable dependency management mainly for C++ projects
+- [BringAuto Pi] - compute platform based on Raspberry Pi for SW Validation and Verification purposes
 
 
 [Fleet Protocol]: https://github.com/bringauto/fleet-protocol
