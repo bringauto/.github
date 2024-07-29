@@ -21,4 +21,4 @@ many in-house developed technologies as an open-source
 
 [Fleet Protocol]: https://github.com/bringauto/fleet-protocol
 [Packager]: https://github.com/bringauto/packager
-[BringAuto Pi]: <https://github.com/bringauto/pi-3d-models
+[BringAuto Pi]: https://github.com/bringauto/pi-3d-models
