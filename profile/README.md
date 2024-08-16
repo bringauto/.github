@@ -14,7 +14,7 @@ many in-house developed technologies as an open-source
 
 ## Projects
 
-- [Fleet Protocol]
+- [Fleet Protocol] - reliable communication technology for an internet-connection-unstable environment
 - [Packager] - simple yet reliable dependency management mainly for C++ projects
 - [BringAuto Pi] - compute platform based on Raspberry Pi for SW Validation and Verification purposes
 
