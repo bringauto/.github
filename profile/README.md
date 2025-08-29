@@ -7,9 +7,9 @@
 
 **BringAuto develops, produces, and operates outdoor Last-Mile-Delivery autonomous robots for logistics in an industrial environment.**
 
-As an illustration watch https://www.youtube.com/watch?v=UZCz01Q_D34
+As an illustration, watch https://www.youtube.com/watch?v=UZCz01Q_D34
 
-Our technologies are highly based on open-source projects and as open-source enthusiasts BringAuto provides
+Our technologies are highly based on open-source projects and as open-source enthusiasts, BringAuto provides
 many in-house developed technologies as an open-source
 
 ## Projects
@@ -20,5 +20,5 @@ many in-house developed technologies as an open-source
 
 
 [Fleet Protocol]: https://github.com/bringauto/fleet-protocol
-[Packager]: https://github.com/bringauto/packager
+[Packager]: https://github.com/bacpack-system
 [BringAuto Pi]: https://github.com/bringauto/pi-3d-models
